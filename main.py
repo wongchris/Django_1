@@ -3,6 +3,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print('Hello World!')
+    print("Hello Second World!")
 
 
 # Press the green button in the gutter to run the script.
